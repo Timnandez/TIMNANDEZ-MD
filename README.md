@@ -102,7 +102,7 @@ jobs:
 
 > DEVELOPER OF TIMNANDEZ-MD 
 - [Timnandez Gibson ](https://github.com/Timnamdez)
-- Creater and Owner Of Gibson-MD
+- Creater and Owner Of TIMNANDEZ-MD
 
 > TIMNANDEZ-MD Helper
 - [Timnandez Gibson](https://github.com/Timnandez)
